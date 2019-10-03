@@ -1,0 +1,6 @@
+{
+  "targetProtocol": "ssh+docker:",
+  "targetHostname": "pi@raspberrypi",
+  "targetPath": "alwaysai/age_gender_classifier",
+  "dockerImageId": "sha256:83fd576b1a4bab0fc750cae245cc909ef6f2dfed4b408294e84188eedd892d89"
+}

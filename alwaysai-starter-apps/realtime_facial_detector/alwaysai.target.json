@@ -1,0 +1,6 @@
+{
+  "targetProtocol": "ssh+docker:",
+  "targetHostname": "pi@165.233.4.216",
+  "targetPath": "alwaysai/realtime_facial_detector",
+  "dockerImageId": "alwaysai/edgeiq:latest"
+}
